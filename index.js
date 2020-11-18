@@ -30,6 +30,3 @@ const body = document.querySelector("body")
 const newHeader = document.createElement("h1")
 newHeader.setAttribute("id", "victory")
 newHeader.innerHTML = "YOUR-NAME is the champion"
-// const header = document.createElement("#victory")
-// newHeader.appendChild(header)
-// body.appendChild(newHeader)
