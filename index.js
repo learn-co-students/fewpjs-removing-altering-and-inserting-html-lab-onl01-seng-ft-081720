@@ -25,7 +25,7 @@ ul.removeChild(ul.querySelector('li:nth-child(2)'))
 const main = document.querySelector("#main")
 main.remove()
 
-// Test 2:
+// Test 2, 3, 4:
 const body = document.querySelector("body")
 const newHeader = document.createElement("h1")
 newHeader.setAttribute("id", "victory")
